@@ -1,4 +1,4 @@
-# Simple CRUD App
+# Profile CRUD App
 
 This is a simple CRUD app built with PHP and MySQL. It allows users to login and create, read, update, and delete their profile information, including their position, education, and more.
 
